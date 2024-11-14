@@ -1,8 +1,8 @@
 # Finding the True Value of NFTs: Artistic Hype
 
-## Abstract
+Submitted to Synopsys Science Fair (2022)
 
-Non-Fungible Tokens, NFTs have been a buzzword in the past year and generated a $22B industry that only
+Abstract: Non-Fungible Tokens, NFTs have been a buzzword in the past year and generated a $22B industry that only
 seems to be growing. Turning digital images and other media content into assets is a relatively new concept, with
 a high barrier of entry for potential creators wanting to profit.
 This study investigates what gives NFTs their value by creating and training a machine learning model to input
